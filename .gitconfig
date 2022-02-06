@@ -1,3 +1,5 @@
 [user]
-	name = bradenschiller
+	name = braden
 	email = 26287414+bradenschiller@users.noreply.github.com
+[alias]
+	s = status
