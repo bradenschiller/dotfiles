@@ -1,13 +1,34 @@
+# Taps
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-# Distributed revision control system
+
+# Packages
+brew "bat"
 brew "git"
-# Platform built on V8 to build network applications
-brew "node"
-# UNIX shell (command interpreter)
+brew "httpie"
+brew "neovim"
+brew "nvm"
+brew "tldr"
+brew "trash"
 brew "zsh"
-# Fish shell like syntax highlighting for zsh
 brew "zsh-syntax-highlighting"
-# Collaboration platform for API development
+brew "exa"
+brew "docker"
+
+# Applications
+cask "gitkraken"
 cask "postman"
+cask "dropbox"
+cask "alfred"
+cask "google-chrome"
+cask "slack"
+cask "postman"
+cask "gitkraken"
+cask "nordvpn"
+cask "fantastical"
+cask "1password"
+cask "zoom"
+cask "visual-studio-code"
+cask "appcleaner"
+cask "iterm2"

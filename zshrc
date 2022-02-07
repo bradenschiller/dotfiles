@@ -103,5 +103,6 @@ alias mnp="cd ~/Desktop/mvc_node_project"
 alias cc="cd ~/Projects/coffee-connoisseur"
 alias gs="git status"
 alias ls="ls -lAFh"
+alias vim="nvim"
 
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
