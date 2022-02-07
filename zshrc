@@ -3,6 +3,7 @@
 
 # Add Syntax Highlighting for man using bat
 export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/bradenschiller/.oh-my-zsh"
@@ -104,5 +105,6 @@ alias cc="cd ~/Projects/coffee-connoisseur"
 alias gs="git status"
 alias ls="ls -lAFh"
 alias vim="nvim"
+alias exa="exa -laFh --git"
 
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
