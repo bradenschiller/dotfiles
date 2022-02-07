@@ -14,7 +14,6 @@ brew "trash"
 brew "zsh"
 brew "zsh-syntax-highlighting"
 brew "exa"
-brew "docker"
 
 # Applications
 cask "gitkraken"
@@ -32,3 +31,5 @@ cask "zoom"
 cask "visual-studio-code"
 cask "appcleaner"
 cask "iterm2"
+cask "imazing"
+cask "docker"
