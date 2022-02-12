@@ -107,7 +107,6 @@ exists () {
 alias mnp="cd ~/Desktop/mvc_node_project"
 alias cc="cd ~/Projects/coffee-connoisseur"
 alias gs="git status"
-alias ls="ls -lAFh"
 alias vim="nvim"
 alias ls="exa -laFh --git"
 
