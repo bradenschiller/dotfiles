@@ -95,11 +95,6 @@ source $ZSH/oh-my-zsh.sh
 # else
 #   export EDITOR='mvim'
 # fi
-
-exists () {
-  command -v $1 > /dev/null 2>&1
-}
-
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
