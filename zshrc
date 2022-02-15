@@ -104,5 +104,6 @@ alias cc="cd ~/Projects/coffee-connoisseur"
 alias gs="git status"
 alias vim="nvim"
 alias ls="exa -laFh --git"
+alias bbd="brew bundle dump --force --describe"
 
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
